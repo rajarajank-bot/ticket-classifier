@@ -1,0 +1,651 @@
+text,category,priority
+where can i find the user documentation? (please help #0),General,Low
+"hello, great service, just wanted to share feedback (asap #1)",General,Low
+"hi, server error 500 when trying to export data (urgent #2)",Technical,High
+support needed - feature request: add dark theme to reports (urgent #3),General,Low
+urgent: what are your customer support working hours? (please help #4),General,Low
+i was charged twice for my monthly subscription (asap #5),Billing,High
+support needed - server error 500 when trying to export data (please help #6),Technical,High
+"hi, add a new team member to my workspace (issue since morning #7)",Account,Low
+urgent: server error 500 when trying to export data (kindly check #8),Technical,High
+"hi, i was charged twice for my monthly subscription (issue since morning #9)",Billing,High
+"hello, dark mode toggle is not saving my preference (thanks #10)",Technical,Low
+"hello, the mobile app crashes every time i open settings (urgent #11)",Technical,High
+urgent: need a refund for the cancelled order immediately (urgent #12),Billing,High
+"hello, cannot upload pdf files larger than 5mb (kindly check #13)",Technical,Medium
+urgent: my invoice shows an incorrect tax amount (urgent #14),Billing,Medium
+i forgot my password and reset link expired (kindly check #15),Account,High
+support needed - where can i find the user documentation? (hello team #16),General,Low
+"hi, what are your customer support working hours? (urgent #17)",General,Low
+"hi, my invoice shows an incorrect tax amount (kindly check #18)",Billing,Medium
+"hi, need a refund for the cancelled order immediately (urgent #19)",Billing,High
+"hello, i forgot my password and reset link expired (not working #20)",Account,High
+"hello, where can i find the user documentation? (thanks #21)",General,Low
+"hello, cannot upload pdf files larger than 5mb (asap #22)",Technical,Medium
+"hello, feature request: add dark theme to reports (urgent #23)",General,Low
+"hi, do you offer discounts for non-profit organizations? (asap #24)",General,Low
+urgent: update my billing address on the account (issue since morning #25),Billing,Low
+support needed - dashboard is loading very slowly today (asap #26),Technical,Medium
+"hello, feature request: add dark theme to reports (please help #27)",General,Low
+server error 500 when trying to export data (hello team #28),Technical,High
+"hello, i forgot my password and reset link expired (urgent #29)",Account,High
+support needed - the mobile app crashes every time i open settings (hello team #30),Technical,High
+urgent: the mobile app crashes every time i open settings (issue since morning #31),Technical,High
+urgent: where can i find the user documentation? (thanks #32),General,Low
+"hi, dashboard is loading very slowly today (asap #33)",Technical,Medium
+"support needed - great service, just wanted to share feedback (kindly check #34)",General,Low
+"support needed - great service, just wanted to share feedback (issue since morning #35)",General,Low
+urgent: what are your customer support working hours? (hello team #36),General,Low
+"hi, server error 500 when trying to export data (not working #37)",Technical,High
+need a refund for the cancelled order immediately (urgent #38),Billing,High
+"hi, payment failed using my credit card (issue since morning #39)",Billing,High
+do you offer discounts for non-profit organizations? (issue since morning #40),General,Low
+support needed - i forgot my password and reset link expired (not working #41),Account,High
+"hello, want to upgrade my plan to enterprise tier (please help #42)",Account,Low
+feature request: add dark theme to reports (kindly check #43),General,Low
+"hello, where can i find the user documentation? (urgent #44)",General,Low
+urgent: api webhook is not triggering on new events (thanks #45),Technical,High
+how to change my registered email address? (kindly check #46),Account,Medium
+"hi, want to upgrade my plan to enterprise tier (urgent #47)",Account,Low
+"hello, where can i find the user documentation? (asap #48)",General,Low
+"hello, payment failed using my credit card (thanks #49)",Billing,High
+support needed - add a new team member to my workspace (please help #50),Account,Low
+"hello, do you offer discounts for non-profit organizations? (not working #51)",General,Low
+i was charged twice for my monthly subscription (hello team #52),Billing,High
+"hi, api webhook is not triggering on new events (please help #53)",Technical,High
+support needed - server error 500 when trying to export data (urgent #54),Technical,High
+urgent: need a refund for the cancelled order immediately (urgent #55),Billing,High
+"hi, add a new team member to my workspace (thanks #56)",Account,Low
+urgent: feature request: add dark theme to reports (thanks #57),General,Low
+support needed - dashboard is loading very slowly today (issue since morning #58),Technical,Medium
+support needed - the mobile app crashes every time i open settings (asap #59),Technical,High
+"hello, need clarification on your privacy policy (issue since morning #60)",General,Medium
+"hello, feature request: add dark theme to reports (not working #61)",General,Low
+urgent: want to upgrade my plan to enterprise tier (urgent #62),Account,Low
+"hi, server error 500 when trying to export data (urgent #63)",Technical,High
+dark mode toggle is not saving my preference (asap #64),Technical,Low
+"hi, what are your customer support working hours? (please help #65)",General,Low
+need a refund for the cancelled order immediately (asap #66),Billing,High
+need a refund for the cancelled order immediately (hello team #67),Billing,High
+support needed - need a refund for the cancelled order immediately (asap #68),Billing,High
+urgent: dashboard is loading very slowly today (asap #69),Technical,Medium
+"hi, add a new team member to my workspace (not working #70)",Account,Low
+urgent: server error 500 when trying to export data (issue since morning #71),Technical,High
+the mobile app crashes every time i open settings (urgent #72),Technical,High
+urgent: feature request: add dark theme to reports (hello team #73),General,Low
+urgent: locked out of my account after two-factor authentication (not working #74),Account,High
+"great service, just wanted to share feedback (urgent #75)",General,Low
+urgent: my invoice shows an incorrect tax amount (hello team #76),Billing,Medium
+"hi, how do i download my past billing receipts? (asap #77)",Billing,Low
+support needed - the mobile app crashes every time i open settings (not working #78),Technical,High
+urgent: payment failed using my credit card (thanks #79),Billing,High
+urgent: dashboard is loading very slowly today (asap #80),Technical,Medium
+urgent: need a refund for the cancelled order immediately (urgent #81),Billing,High
+support needed - my invoice shows an incorrect tax amount (please help #82),Billing,Medium
+"hi, need a refund for the cancelled order immediately (thanks #83)",Billing,High
+urgent: locked out of my account after two-factor authentication (not working #84),Account,High
+urgent: the mobile app crashes every time i open settings (please help #85),Technical,High
+urgent: update my billing address on the account (please help #86),Billing,Low
+"hello, i forgot my password and reset link expired (not working #87)",Account,High
+urgent: api webhook is not triggering on new events (not working #88),Technical,High
+"hi, payment failed using my credit card (kindly check #89)",Billing,High
+the mobile app crashes every time i open settings (please help #90),Technical,High
+"hello, great service, just wanted to share feedback (please help #91)",General,Low
+support needed - my invoice shows an incorrect tax amount (not working #92),Billing,Medium
+support needed - want to upgrade my plan to enterprise tier (thanks #93),Account,Low
+support needed - my invoice shows an incorrect tax amount (urgent #94),Billing,Medium
+update my billing address on the account (urgent #95),Billing,Low
+"hi, feature request: add dark theme to reports (issue since morning #96)",General,Low
+support needed - how do i download my past billing receipts? (asap #97),Billing,Low
+support needed - what are your customer support working hours? (please help #98),General,Low
+do you offer discounts for non-profit organizations? (issue since morning #99),General,Low
+support needed - feature request: add dark theme to reports (hello team #100),General,Low
+"hi, dashboard is loading very slowly today (hello team #101)",Technical,Medium
+"hello, server error 500 when trying to export data (issue since morning #102)",Technical,High
+"hello, payment failed using my credit card (not working #103)",Billing,High
+dark mode toggle is not saving my preference (please help #104),Technical,Low
+support needed - how to change my registered email address? (urgent #105),Account,Medium
+support needed - need a refund for the cancelled order immediately (asap #106),Billing,High
+"hello, want to upgrade my plan to enterprise tier (thanks #107)",Account,Low
+cannot upload pdf files larger than 5mb (asap #108),Technical,Medium
+"hello, cannot upload pdf files larger than 5mb (thanks #109)",Technical,Medium
+support needed - how to change my registered email address? (kindly check #110),Account,Medium
+support needed - do you offer discounts for non-profit organizations? (please help #111),General,Low
+support needed - feature request: add dark theme to reports (kindly check #112),General,Low
+feature request: add dark theme to reports (thanks #113),General,Low
+dashboard is loading very slowly today (urgent #114),Technical,Medium
+"support needed - great service, just wanted to share feedback (thanks #115)",General,Low
+"hello, dashboard is loading very slowly today (asap #116)",Technical,Medium
+"hello, need clarification on your privacy policy (asap #117)",General,Medium
+"hello, feature request: add dark theme to reports (not working #118)",General,Low
+dashboard is loading very slowly today (urgent #119),Technical,Medium
+urgent: where can i find the user documentation? (kindly check #120),General,Low
+my invoice shows an incorrect tax amount (hello team #121),Billing,Medium
+"hello, payment failed using my credit card (thanks #122)",Billing,High
+"urgent: great service, just wanted to share feedback (issue since morning #123)",General,Low
+add a new team member to my workspace (urgent #124),Account,Low
+"hi, need a refund for the cancelled order immediately (please help #125)",Billing,High
+support needed - cannot upload pdf files larger than 5mb (thanks #126),Technical,Medium
+"hi, locked out of my account after two-factor authentication (please help #127)",Account,High
+"hello, api webhook is not triggering on new events (please help #128)",Technical,High
+"hi, cannot upload pdf files larger than 5mb (asap #129)",Technical,Medium
+feature request: add dark theme to reports (hello team #130),General,Low
+urgent: add a new team member to my workspace (thanks #131),Account,Low
+"hi, server error 500 when trying to export data (thanks #132)",Technical,High
+locked out of my account after two-factor authentication (thanks #133),Account,High
+"hello, great service, just wanted to share feedback (issue since morning #134)",General,Low
+"hi, feature request: add dark theme to reports (kindly check #135)",General,Low
+update my billing address on the account (issue since morning #136),Billing,Low
+urgent: my invoice shows an incorrect tax amount (asap #137),Billing,Medium
+urgent: the mobile app crashes every time i open settings (hello team #138),Technical,High
+"hi, api webhook is not triggering on new events (asap #139)",Technical,High
+"hi, i was charged twice for my monthly subscription (issue since morning #140)",Billing,High
+"hello, dark mode toggle is not saving my preference (urgent #141)",Technical,Low
+"hello, dashboard is loading very slowly today (issue since morning #142)",Technical,Medium
+support needed - feature request: add dark theme to reports (hello team #143),General,Low
+i was charged twice for my monthly subscription (kindly check #144),Billing,High
+support needed - update my billing address on the account (kindly check #145),Billing,Low
+my invoice shows an incorrect tax amount (issue since morning #146),Billing,Medium
+"hello, cannot upload pdf files larger than 5mb (issue since morning #147)",Technical,Medium
+support needed - do you offer discounts for non-profit organizations? (urgent #148),General,Low
+support needed - i forgot my password and reset link expired (asap #149),Account,High
+dashboard is loading very slowly today (issue since morning #150),Technical,Medium
+support needed - i was charged twice for my monthly subscription (asap #151),Billing,High
+urgent: cannot upload pdf files larger than 5mb (urgent #152),Technical,Medium
+"hello, feature request: add dark theme to reports (hello team #153)",General,Low
+feature request: add dark theme to reports (kindly check #154),General,Low
+"hello, want to upgrade my plan to enterprise tier (issue since morning #155)",Account,Low
+urgent: dark mode toggle is not saving my preference (kindly check #156),Technical,Low
+"hi, add a new team member to my workspace (asap #157)",Account,Low
+urgent: locked out of my account after two-factor authentication (thanks #158),Account,High
+support needed - do you offer discounts for non-profit organizations? (kindly check #159),General,Low
+support needed - i forgot my password and reset link expired (please help #160),Account,High
+"hello, api webhook is not triggering on new events (asap #161)",Technical,High
+support needed - locked out of my account after two-factor authentication (hello team #162),Account,High
+urgent: how to change my registered email address? (not working #163),Account,Medium
+"hi, feature request: add dark theme to reports (not working #164)",General,Low
+"hi, great service, just wanted to share feedback (urgent #165)",General,Low
+support needed - api webhook is not triggering on new events (hello team #166),Technical,High
+"hi, need a refund for the cancelled order immediately (kindly check #167)",Billing,High
+"hi, server error 500 when trying to export data (thanks #168)",Technical,High
+i was charged twice for my monthly subscription (asap #169),Billing,High
+support needed - please delete my account and personal data (urgent #170),Account,Medium
+urgent: how to change my registered email address? (asap #171),Account,Medium
+urgent: need clarification on your privacy policy (not working #172),General,Medium
+"hi, i forgot my password and reset link expired (thanks #173)",Account,High
+where can i find the user documentation? (urgent #174),General,Low
+"hi, locked out of my account after two-factor authentication (thanks #175)",Account,High
+support needed - need clarification on your privacy policy (not working #176),General,Medium
+support needed - my invoice shows an incorrect tax amount (asap #177),Billing,Medium
+urgent: how do i download my past billing receipts? (thanks #178),Billing,Low
+support needed - how to change my registered email address? (hello team #179),Account,Medium
+support needed - how to change my registered email address? (issue since morning #180),Account,Medium
+urgent: add a new team member to my workspace (thanks #181),Account,Low
+"urgent: great service, just wanted to share feedback (not working #182)",General,Low
+"hi, dashboard is loading very slowly today (kindly check #183)",Technical,Medium
+urgent: want to upgrade my plan to enterprise tier (asap #184),Account,Low
+urgent: dashboard is loading very slowly today (urgent #185),Technical,Medium
+"hello, need clarification on your privacy policy (asap #186)",General,Medium
+"hello, dashboard is loading very slowly today (hello team #187)",Technical,Medium
+add a new team member to my workspace (thanks #188),Account,Low
+"hi, payment failed using my credit card (issue since morning #189)",Billing,High
+"hi, need clarification on your privacy policy (asap #190)",General,Medium
+urgent: need a refund for the cancelled order immediately (issue since morning #191),Billing,High
+support needed - dark mode toggle is not saving my preference (not working #192),Technical,Low
+locked out of my account after two-factor authentication (asap #193),Account,High
+urgent: locked out of my account after two-factor authentication (please help #194),Account,High
+urgent: what are your customer support working hours? (not working #195),General,Low
+"hello, i was charged twice for my monthly subscription (kindly check #196)",Billing,High
+urgent: i forgot my password and reset link expired (asap #197),Account,High
+"hi, please delete my account and personal data (kindly check #198)",Account,Medium
+urgent: locked out of my account after two-factor authentication (please help #199),Account,High
+"hello, i forgot my password and reset link expired (issue since morning #200)",Account,High
+"hi, great service, just wanted to share feedback (not working #201)",General,Low
+support needed - payment failed using my credit card (please help #202),Billing,High
+support needed - i forgot my password and reset link expired (please help #203),Account,High
+urgent: need a refund for the cancelled order immediately (thanks #204),Billing,High
+"hi, how to change my registered email address? (please help #205)",Account,Medium
+urgent: dashboard is loading very slowly today (hello team #206),Technical,Medium
+urgent: the mobile app crashes every time i open settings (hello team #207),Technical,High
+urgent: dark mode toggle is not saving my preference (kindly check #208),Technical,Low
+"hello, locked out of my account after two-factor authentication (urgent #209)",Account,High
+please delete my account and personal data (please help #210),Account,Medium
+"hi, cannot upload pdf files larger than 5mb (urgent #211)",Technical,Medium
+where can i find the user documentation? (please help #212),General,Low
+"hi, server error 500 when trying to export data (please help #213)",Technical,High
+"hi, do you offer discounts for non-profit organizations? (asap #214)",General,Low
+urgent: payment failed using my credit card (urgent #215),Billing,High
+"hi, what are your customer support working hours? (not working #216)",General,Low
+"hello, need clarification on your privacy policy (hello team #217)",General,Medium
+support needed - update my billing address on the account (urgent #218),Billing,Low
+"hello, update my billing address on the account (urgent #219)",Billing,Low
+what are your customer support working hours? (kindly check #220),General,Low
+urgent: what are your customer support working hours? (issue since morning #221),General,Low
+"hi, need clarification on your privacy policy (urgent #222)",General,Medium
+"hi, what are your customer support working hours? (urgent #223)",General,Low
+"hello, need clarification on your privacy policy (urgent #224)",General,Medium
+what are your customer support working hours? (hello team #225),General,Low
+urgent: add a new team member to my workspace (hello team #226),Account,Low
+support needed - need a refund for the cancelled order immediately (hello team #227),Billing,High
+urgent: i was charged twice for my monthly subscription (not working #228),Billing,High
+urgent: how do i download my past billing receipts? (hello team #229),Billing,Low
+urgent: where can i find the user documentation? (thanks #230),General,Low
+"hi, locked out of my account after two-factor authentication (kindly check #231)",Account,High
+support needed - do you offer discounts for non-profit organizations? (not working #232),General,Low
+urgent: how to change my registered email address? (kindly check #233),Account,Medium
+"hi, dark mode toggle is not saving my preference (urgent #234)",Technical,Low
+urgent: dashboard is loading very slowly today (asap #235),Technical,Medium
+support needed - how to change my registered email address? (issue since morning #236),Account,Medium
+dark mode toggle is not saving my preference (not working #237),Technical,Low
+"hi, dark mode toggle is not saving my preference (not working #238)",Technical,Low
+"hello, the mobile app crashes every time i open settings (kindly check #239)",Technical,High
+"hello, dark mode toggle is not saving my preference (kindly check #240)",Technical,Low
+add a new team member to my workspace (asap #241),Account,Low
+"hi, need a refund for the cancelled order immediately (issue since morning #242)",Billing,High
+support needed - please delete my account and personal data (asap #243),Account,Medium
+urgent: need clarification on your privacy policy (not working #244),General,Medium
+how to change my registered email address? (urgent #245),Account,Medium
+"hi, api webhook is not triggering on new events (issue since morning #246)",Technical,High
+"hi, need clarification on your privacy policy (kindly check #247)",General,Medium
+support needed - feature request: add dark theme to reports (hello team #248),General,Low
+support needed - please delete my account and personal data (hello team #249),Account,Medium
+support needed - locked out of my account after two-factor authentication (hello team #250),Account,High
+urgent: cannot upload pdf files larger than 5mb (kindly check #251),Technical,Medium
+"hello, api webhook is not triggering on new events (asap #252)",Technical,High
+"hi, how do i download my past billing receipts? (hello team #253)",Billing,Low
+support needed - how do i download my past billing receipts? (thanks #254),Billing,Low
+"hi, the mobile app crashes every time i open settings (not working #255)",Technical,High
+support needed - dashboard is loading very slowly today (kindly check #256),Technical,Medium
+"hi, how do i download my past billing receipts? (kindly check #257)",Billing,Low
+"hello, server error 500 when trying to export data (thanks #258)",Technical,High
+api webhook is not triggering on new events (thanks #259),Technical,High
+dashboard is loading very slowly today (please help #260),Technical,Medium
+"hello, add a new team member to my workspace (thanks #261)",Account,Low
+urgent: where can i find the user documentation? (urgent #262),General,Low
+support needed - i was charged twice for my monthly subscription (kindly check #263),Billing,High
+urgent: please delete my account and personal data (not working #264),Account,Medium
+"hi, dark mode toggle is not saving my preference (please help #265)",Technical,Low
+urgent: dashboard is loading very slowly today (urgent #266),Technical,Medium
+urgent: need a refund for the cancelled order immediately (not working #267),Billing,High
+support needed - need a refund for the cancelled order immediately (please help #268),Billing,High
+"hi, payment failed using my credit card (kindly check #269)",Billing,High
+"hi, need a refund for the cancelled order immediately (urgent #270)",Billing,High
+urgent: add a new team member to my workspace (asap #271),Account,Low
+urgent: want to upgrade my plan to enterprise tier (not working #272),Account,Low
+"hello, how to change my registered email address? (issue since morning #273)",Account,Medium
+support needed - api webhook is not triggering on new events (please help #274),Technical,High
+do you offer discounts for non-profit organizations? (asap #275),General,Low
+"hi, where can i find the user documentation? (kindly check #276)",General,Low
+feature request: add dark theme to reports (thanks #277),General,Low
+"hi, server error 500 when trying to export data (urgent #278)",Technical,High
+update my billing address on the account (issue since morning #279),Billing,Low
+support needed - how to change my registered email address? (not working #280),Account,Medium
+api webhook is not triggering on new events (asap #281),Technical,High
+"hello, api webhook is not triggering on new events (not working #282)",Technical,High
+"hi, need a refund for the cancelled order immediately (kindly check #283)",Billing,High
+support needed - where can i find the user documentation? (asap #284),General,Low
+locked out of my account after two-factor authentication (asap #285),Account,High
+"hi, where can i find the user documentation? (kindly check #286)",General,Low
+payment failed using my credit card (please help #287),Billing,High
+"hello, update my billing address on the account (kindly check #288)",Billing,Low
+how to change my registered email address? (not working #289),Account,Medium
+"hello, need clarification on your privacy policy (issue since morning #290)",General,Medium
+support needed - dashboard is loading very slowly today (not working #291),Technical,Medium
+how to change my registered email address? (please help #292),Account,Medium
+"hello, locked out of my account after two-factor authentication (kindly check #293)",Account,High
+i was charged twice for my monthly subscription (asap #294),Billing,High
+support needed - feature request: add dark theme to reports (please help #295),General,Low
+"hello, feature request: add dark theme to reports (please help #296)",General,Low
+urgent: update my billing address on the account (not working #297),Billing,Low
+"hi, dashboard is loading very slowly today (issue since morning #298)",Technical,Medium
+urgent: where can i find the user documentation? (urgent #299),General,Low
+"hello, please delete my account and personal data (issue since morning #300)",Account,Medium
+"hello, dark mode toggle is not saving my preference (urgent #301)",Technical,Low
+"hello, update my billing address on the account (issue since morning #302)",Billing,Low
+urgent: need clarification on your privacy policy (kindly check #303),General,Medium
+urgent: feature request: add dark theme to reports (please help #304),General,Low
+how to change my registered email address? (hello team #305),Account,Medium
+"hello, dashboard is loading very slowly today (urgent #306)",Technical,Medium
+support needed - i forgot my password and reset link expired (please help #307),Account,High
+support needed - feature request: add dark theme to reports (not working #308),General,Low
+locked out of my account after two-factor authentication (asap #309),Account,High
+"hello, want to upgrade my plan to enterprise tier (not working #310)",Account,Low
+urgent: where can i find the user documentation? (please help #311),General,Low
+"hello, the mobile app crashes every time i open settings (thanks #312)",Technical,High
+urgent: api webhook is not triggering on new events (not working #313),Technical,High
+how do i download my past billing receipts? (asap #314),Billing,Low
+"hi, need clarification on your privacy policy (kindly check #315)",General,Medium
+add a new team member to my workspace (issue since morning #316),Account,Low
+"hi, need a refund for the cancelled order immediately (urgent #317)",Billing,High
+how to change my registered email address? (thanks #318),Account,Medium
+"hello, please delete my account and personal data (kindly check #319)",Account,Medium
+urgent: locked out of my account after two-factor authentication (not working #320),Account,High
+urgent: server error 500 when trying to export data (thanks #321),Technical,High
+"hi, i forgot my password and reset link expired (thanks #322)",Account,High
+"hello, need a refund for the cancelled order immediately (issue since morning #323)",Billing,High
+support needed - dark mode toggle is not saving my preference (kindly check #324),Technical,Low
+"hello, i was charged twice for my monthly subscription (kindly check #325)",Billing,High
+support needed - what are your customer support working hours? (not working #326),General,Low
+urgent: payment failed using my credit card (not working #327),Billing,High
+"hello, cannot upload pdf files larger than 5mb (issue since morning #328)",Technical,Medium
+"hello, how to change my registered email address? (asap #329)",Account,Medium
+"hi, need clarification on your privacy policy (issue since morning #330)",General,Medium
+urgent: server error 500 when trying to export data (please help #331),Technical,High
+urgent: dark mode toggle is not saving my preference (issue since morning #332),Technical,Low
+"hi, i forgot my password and reset link expired (not working #333)",Account,High
+"hi, my invoice shows an incorrect tax amount (hello team #334)",Billing,Medium
+urgent: how do i download my past billing receipts? (urgent #335),Billing,Low
+urgent: want to upgrade my plan to enterprise tier (please help #336),Account,Low
+"hi, great service, just wanted to share feedback (issue since morning #337)",General,Low
+"hi, where can i find the user documentation? (urgent #338)",General,Low
+"hello, please delete my account and personal data (hello team #339)",Account,Medium
+urgent: do you offer discounts for non-profit organizations? (urgent #340),General,Low
+support needed - dark mode toggle is not saving my preference (issue since morning #341),Technical,Low
+urgent: dark mode toggle is not saving my preference (please help #342),Technical,Low
+do you offer discounts for non-profit organizations? (asap #343),General,Low
+"hello, where can i find the user documentation? (asap #344)",General,Low
+"great service, just wanted to share feedback (issue since morning #345)",General,Low
+how do i download my past billing receipts? (not working #346),Billing,Low
+"hello, update my billing address on the account (please help #347)",Billing,Low
+"hello, my invoice shows an incorrect tax amount (please help #348)",Billing,Medium
+"hello, api webhook is not triggering on new events (hello team #349)",Technical,High
+"hi, locked out of my account after two-factor authentication (asap #350)",Account,High
+urgent: want to upgrade my plan to enterprise tier (thanks #351),Account,Low
+"hi, update my billing address on the account (urgent #352)",Billing,Low
+urgent: do you offer discounts for non-profit organizations? (asap #353),General,Low
+support needed - please delete my account and personal data (thanks #354),Account,Medium
+urgent: server error 500 when trying to export data (kindly check #355),Technical,High
+"hello, how to change my registered email address? (please help #356)",Account,Medium
+"hello, how to change my registered email address? (thanks #357)",Account,Medium
+urgent: need a refund for the cancelled order immediately (hello team #358),Billing,High
+"hello, what are your customer support working hours? (issue since morning #359)",General,Low
+"hello, need clarification on your privacy policy (not working #360)",General,Medium
+"hi, api webhook is not triggering on new events (issue since morning #361)",Technical,High
+please delete my account and personal data (asap #362),Account,Medium
+support needed - i forgot my password and reset link expired (hello team #363),Account,High
+"hello, what are your customer support working hours? (kindly check #364)",General,Low
+urgent: i was charged twice for my monthly subscription (kindly check #365),Billing,High
+support needed - i was charged twice for my monthly subscription (please help #366),Billing,High
+urgent: do you offer discounts for non-profit organizations? (kindly check #367),General,Low
+support needed - server error 500 when trying to export data (hello team #368),Technical,High
+"hi, server error 500 when trying to export data (kindly check #369)",Technical,High
+"hi, feature request: add dark theme to reports (urgent #370)",General,Low
+where can i find the user documentation? (kindly check #371),General,Low
+how to change my registered email address? (hello team #372),Account,Medium
+"hi, great service, just wanted to share feedback (urgent #373)",General,Low
+"hello, api webhook is not triggering on new events (issue since morning #374)",Technical,High
+"hi, update my billing address on the account (thanks #375)",Billing,Low
+"hello, add a new team member to my workspace (kindly check #376)",Account,Low
+"hello, update my billing address on the account (not working #377)",Billing,Low
+"hello, api webhook is not triggering on new events (urgent #378)",Technical,High
+how to change my registered email address? (thanks #379),Account,Medium
+urgent: server error 500 when trying to export data (hello team #380),Technical,High
+urgent: need a refund for the cancelled order immediately (please help #381),Billing,High
+support needed - dashboard is loading very slowly today (urgent #382),Technical,Medium
+"hello, how to change my registered email address? (kindly check #383)",Account,Medium
+urgent: what are your customer support working hours? (hello team #384),General,Low
+"hi, how do i download my past billing receipts? (not working #385)",Billing,Low
+support needed - i was charged twice for my monthly subscription (hello team #386),Billing,High
+"hi, do you offer discounts for non-profit organizations? (urgent #387)",General,Low
+urgent: where can i find the user documentation? (kindly check #388),General,Low
+urgent: where can i find the user documentation? (urgent #389),General,Low
+payment failed using my credit card (please help #390),Billing,High
+urgent: api webhook is not triggering on new events (urgent #391),Technical,High
+"hi, how do i download my past billing receipts? (thanks #392)",Billing,Low
+urgent: i forgot my password and reset link expired (hello team #393),Account,High
+support needed - feature request: add dark theme to reports (issue since morning #394),General,Low
+"hi, what are your customer support working hours? (issue since morning #395)",General,Low
+where can i find the user documentation? (not working #396),General,Low
+urgent: do you offer discounts for non-profit organizations? (kindly check #397),General,Low
+"hello, my invoice shows an incorrect tax amount (asap #398)",Billing,Medium
+urgent: how to change my registered email address? (asap #399),Account,Medium
+cannot upload pdf files larger than 5mb (hello team #400),Technical,Medium
+"hello, add a new team member to my workspace (please help #401)",Account,Low
+"hello, i forgot my password and reset link expired (asap #402)",Account,High
+urgent: how do i download my past billing receipts? (urgent #403),Billing,Low
+"hi, feature request: add dark theme to reports (please help #404)",General,Low
+"hello, my invoice shows an incorrect tax amount (asap #405)",Billing,Medium
+support needed - payment failed using my credit card (asap #406),Billing,High
+support needed - need a refund for the cancelled order immediately (asap #407),Billing,High
+"hi, what are your customer support working hours? (asap #408)",General,Low
+"hi, dark mode toggle is not saving my preference (please help #409)",Technical,Low
+"hi, dashboard is loading very slowly today (thanks #410)",Technical,Medium
+"hello, add a new team member to my workspace (thanks #411)",Account,Low
+how do i download my past billing receipts? (thanks #412),Billing,Low
+"hello, i was charged twice for my monthly subscription (asap #413)",Billing,High
+"hello, what are your customer support working hours? (please help #414)",General,Low
+"hello, update my billing address on the account (please help #415)",Billing,Low
+urgent: payment failed using my credit card (urgent #416),Billing,High
+"great service, just wanted to share feedback (not working #417)",General,Low
+"hello, how to change my registered email address? (urgent #418)",Account,Medium
+support needed - how to change my registered email address? (asap #419),Account,Medium
+do you offer discounts for non-profit organizations? (kindly check #420),General,Low
+how to change my registered email address? (please help #421),Account,Medium
+urgent: please delete my account and personal data (issue since morning #422),Account,Medium
+feature request: add dark theme to reports (not working #423),General,Low
+urgent: need clarification on your privacy policy (urgent #424),General,Medium
+"hello, need a refund for the cancelled order immediately (thanks #425)",Billing,High
+"hi, need a refund for the cancelled order immediately (kindly check #426)",Billing,High
+support needed - do you offer discounts for non-profit organizations? (hello team #427),General,Low
+support needed - i forgot my password and reset link expired (kindly check #428),Account,High
+support needed - how to change my registered email address? (issue since morning #429),Account,Medium
+how do i download my past billing receipts? (asap #430),Billing,Low
+urgent: locked out of my account after two-factor authentication (asap #431),Account,High
+"hello, locked out of my account after two-factor authentication (not working #432)",Account,High
+urgent: i forgot my password and reset link expired (urgent #433),Account,High
+urgent: dark mode toggle is not saving my preference (hello team #434),Technical,Low
+"hello, feature request: add dark theme to reports (hello team #435)",General,Low
+urgent: payment failed using my credit card (urgent #436),Billing,High
+need a refund for the cancelled order immediately (urgent #437),Billing,High
+locked out of my account after two-factor authentication (hello team #438),Account,High
+support needed - payment failed using my credit card (please help #439),Billing,High
+support needed - what are your customer support working hours? (hello team #440),General,Low
+feature request: add dark theme to reports (issue since morning #441),General,Low
+urgent: cannot upload pdf files larger than 5mb (please help #442),Technical,Medium
+support needed - api webhook is not triggering on new events (kindly check #443),Technical,High
+cannot upload pdf files larger than 5mb (asap #444),Technical,Medium
+urgent: payment failed using my credit card (asap #445),Billing,High
+"hello, how do i download my past billing receipts? (hello team #446)",Billing,Low
+"hello, how do i download my past billing receipts? (asap #447)",Billing,Low
+support needed - locked out of my account after two-factor authentication (please help #448),Account,High
+"hello, do you offer discounts for non-profit organizations? (please help #449)",General,Low
+"hello, update my billing address on the account (kindly check #450)",Billing,Low
+"hello, dark mode toggle is not saving my preference (please help #451)",Technical,Low
+"hi, update my billing address on the account (issue since morning #452)",Billing,Low
+"hi, need a refund for the cancelled order immediately (please help #453)",Billing,High
+support needed - need a refund for the cancelled order immediately (asap #454),Billing,High
+urgent: i forgot my password and reset link expired (not working #455),Account,High
+"hi, dark mode toggle is not saving my preference (hello team #456)",Technical,Low
+"hello, api webhook is not triggering on new events (urgent #457)",Technical,High
+"hi, my invoice shows an incorrect tax amount (thanks #458)",Billing,Medium
+do you offer discounts for non-profit organizations? (urgent #459),General,Low
+urgent: dashboard is loading very slowly today (issue since morning #460),Technical,Medium
+support needed - please delete my account and personal data (not working #461),Account,Medium
+"hello, locked out of my account after two-factor authentication (asap #462)",Account,High
+want to upgrade my plan to enterprise tier (hello team #463),Account,Low
+locked out of my account after two-factor authentication (kindly check #464),Account,High
+support needed - feature request: add dark theme to reports (not working #465),General,Low
+"hello, want to upgrade my plan to enterprise tier (please help #466)",Account,Low
+urgent: server error 500 when trying to export data (please help #467),Technical,High
+"hi, i was charged twice for my monthly subscription (kindly check #468)",Billing,High
+"hi, the mobile app crashes every time i open settings (kindly check #469)",Technical,High
+"hello, api webhook is not triggering on new events (urgent #470)",Technical,High
+urgent: i was charged twice for my monthly subscription (issue since morning #471),Billing,High
+"hi, update my billing address on the account (issue since morning #472)",Billing,Low
+"hi, add a new team member to my workspace (hello team #473)",Account,Low
+urgent: need a refund for the cancelled order immediately (please help #474),Billing,High
+locked out of my account after two-factor authentication (not working #475),Account,High
+"hello, need a refund for the cancelled order immediately (issue since morning #476)",Billing,High
+urgent: what are your customer support working hours? (issue since morning #477),General,Low
+api webhook is not triggering on new events (issue since morning #478),Technical,High
+"hello, i was charged twice for my monthly subscription (thanks #479)",Billing,High
+urgent: do you offer discounts for non-profit organizations? (hello team #480),General,Low
+urgent: need a refund for the cancelled order immediately (urgent #481),Billing,High
+urgent: server error 500 when trying to export data (issue since morning #482),Technical,High
+want to upgrade my plan to enterprise tier (issue since morning #483),Account,Low
+"hello, api webhook is not triggering on new events (asap #484)",Technical,High
+"hi, dark mode toggle is not saving my preference (urgent #485)",Technical,Low
+want to upgrade my plan to enterprise tier (asap #486),Account,Low
+"hello, cannot upload pdf files larger than 5mb (thanks #487)",Technical,Medium
+server error 500 when trying to export data (thanks #488),Technical,High
+"hi, dashboard is loading very slowly today (thanks #489)",Technical,Medium
+"hi, do you offer discounts for non-profit organizations? (urgent #490)",General,Low
+urgent: update my billing address on the account (not working #491),Billing,Low
+support needed - what are your customer support working hours? (not working #492),General,Low
+support needed - feature request: add dark theme to reports (hello team #493),General,Low
+"hello, where can i find the user documentation? (thanks #494)",General,Low
+how to change my registered email address? (not working #495),Account,Medium
+"hello, how to change my registered email address? (kindly check #496)",Account,Medium
+what are your customer support working hours? (hello team #497),General,Low
+want to upgrade my plan to enterprise tier (kindly check #498),Account,Low
+urgent: how to change my registered email address? (please help #499),Account,Medium
+"hello, my invoice shows an incorrect tax amount (kindly check #500)",Billing,Medium
+need a refund for the cancelled order immediately (issue since morning #501),Billing,High
+support needed - how to change my registered email address? (please help #502),Account,Medium
+support needed - how to change my registered email address? (asap #503),Account,Medium
+support needed - dark mode toggle is not saving my preference (not working #504),Technical,Low
+"hi, want to upgrade my plan to enterprise tier (please help #505)",Account,Low
+how to change my registered email address? (hello team #506),Account,Medium
+need clarification on your privacy policy (thanks #507),General,Medium
+"hi, my invoice shows an incorrect tax amount (not working #508)",Billing,Medium
+support needed - how to change my registered email address? (thanks #509),Account,Medium
+"hello, cannot upload pdf files larger than 5mb (kindly check #510)",Technical,Medium
+urgent: i forgot my password and reset link expired (hello team #511),Account,High
+support needed - feature request: add dark theme to reports (please help #512),General,Low
+"hello, where can i find the user documentation? (urgent #513)",General,Low
+dark mode toggle is not saving my preference (issue since morning #514),Technical,Low
+"hello, api webhook is not triggering on new events (thanks #515)",Technical,High
+dark mode toggle is not saving my preference (thanks #516),Technical,Low
+"hello, cannot upload pdf files larger than 5mb (issue since morning #517)",Technical,Medium
+support needed - payment failed using my credit card (urgent #518),Billing,High
+support needed - api webhook is not triggering on new events (issue since morning #519),Technical,High
+"hello, where can i find the user documentation? (thanks #520)",General,Low
+support needed - feature request: add dark theme to reports (urgent #521),General,Low
+urgent: where can i find the user documentation? (hello team #522),General,Low
+"hello, i was charged twice for my monthly subscription (kindly check #523)",Billing,High
+"hi, update my billing address on the account (hello team #524)",Billing,Low
+"hi, please delete my account and personal data (asap #525)",Account,Medium
+"hi, payment failed using my credit card (urgent #526)",Billing,High
+api webhook is not triggering on new events (please help #527),Technical,High
+"hello, feature request: add dark theme to reports (thanks #528)",General,Low
+urgent: do you offer discounts for non-profit organizations? (thanks #529),General,Low
+"hi, update my billing address on the account (thanks #530)",Billing,Low
+"urgent: great service, just wanted to share feedback (please help #531)",General,Low
+"hello, locked out of my account after two-factor authentication (asap #532)",Account,High
+support needed - how to change my registered email address? (kindly check #533),Account,Medium
+"urgent: great service, just wanted to share feedback (asap #534)",General,Low
+"hi, add a new team member to my workspace (kindly check #535)",Account,Low
+"hi, please delete my account and personal data (hello team #536)",Account,Medium
+support needed - feature request: add dark theme to reports (not working #537),General,Low
+"hello, how to change my registered email address? (issue since morning #538)",Account,Medium
+support needed - want to upgrade my plan to enterprise tier (issue since morning #539),Account,Low
+"hi, update my billing address on the account (thanks #540)",Billing,Low
+dashboard is loading very slowly today (not working #541),Technical,Medium
+support needed - cannot upload pdf files larger than 5mb (urgent #542),Technical,Medium
+support needed - need clarification on your privacy policy (urgent #543),General,Medium
+api webhook is not triggering on new events (thanks #544),Technical,High
+urgent: dashboard is loading very slowly today (thanks #545),Technical,Medium
+locked out of my account after two-factor authentication (asap #546),Account,High
+"hello, how to change my registered email address? (please help #547)",Account,Medium
+locked out of my account after two-factor authentication (issue since morning #548),Account,High
+"hello, want to upgrade my plan to enterprise tier (asap #549)",Account,Low
+i forgot my password and reset link expired (hello team #550),Account,High
+server error 500 when trying to export data (hello team #551),Technical,High
+"hello, how do i download my past billing receipts? (thanks #552)",Billing,Low
+payment failed using my credit card (kindly check #553),Billing,High
+"hi, please delete my account and personal data (not working #554)",Account,Medium
+support needed - how to change my registered email address? (please help #555),Account,Medium
+need a refund for the cancelled order immediately (kindly check #556),Billing,High
+"hi, the mobile app crashes every time i open settings (issue since morning #557)",Technical,High
+"hello, how do i download my past billing receipts? (asap #558)",Billing,Low
+api webhook is not triggering on new events (please help #559),Technical,High
+urgent: server error 500 when trying to export data (not working #560),Technical,High
+need a refund for the cancelled order immediately (not working #561),Billing,High
+support needed - do you offer discounts for non-profit organizations? (please help #562),General,Low
+support needed - where can i find the user documentation? (asap #563),General,Low
+"hi, need clarification on your privacy policy (kindly check #564)",General,Medium
+locked out of my account after two-factor authentication (hello team #565),Account,High
+support needed - server error 500 when trying to export data (issue since morning #566),Technical,High
+update my billing address on the account (hello team #567),Billing,Low
+support needed - need a refund for the cancelled order immediately (please help #568),Billing,High
+urgent: i forgot my password and reset link expired (please help #569),Account,High
+urgent: where can i find the user documentation? (hello team #570),General,Low
+dashboard is loading very slowly today (hello team #571),Technical,Medium
+"hello, need a refund for the cancelled order immediately (asap #572)",Billing,High
+"great service, just wanted to share feedback (hello team #573)",General,Low
+payment failed using my credit card (hello team #574),Billing,High
+"hello, add a new team member to my workspace (thanks #575)",Account,Low
+urgent: feature request: add dark theme to reports (not working #576),General,Low
+"hi, where can i find the user documentation? (thanks #577)",General,Low
+urgent: need a refund for the cancelled order immediately (please help #578),Billing,High
+"hi, api webhook is not triggering on new events (please help #579)",Technical,High
+the mobile app crashes every time i open settings (hello team #580),Technical,High
+support needed - api webhook is not triggering on new events (issue since morning #581),Technical,High
+urgent: add a new team member to my workspace (kindly check #582),Account,Low
+"hi, my invoice shows an incorrect tax amount (kindly check #583)",Billing,Medium
+cannot upload pdf files larger than 5mb (hello team #584),Technical,Medium
+dashboard is loading very slowly today (hello team #585),Technical,Medium
+urgent: locked out of my account after two-factor authentication (not working #586),Account,High
+"hello, i forgot my password and reset link expired (thanks #587)",Account,High
+urgent: please delete my account and personal data (hello team #588),Account,Medium
+"hello, want to upgrade my plan to enterprise tier (urgent #589)",Account,Low
+"urgent: great service, just wanted to share feedback (urgent #590)",General,Low
+support needed - locked out of my account after two-factor authentication (thanks #591),Account,High
+"hello, add a new team member to my workspace (hello team #592)",Account,Low
+how do i download my past billing receipts? (hello team #593),Billing,Low
+"hello, feature request: add dark theme to reports (kindly check #594)",General,Low
+support needed - how to change my registered email address? (issue since morning #595),Account,Medium
+urgent: update my billing address on the account (hello team #596),Billing,Low
+how to change my registered email address? (hello team #597),Account,Medium
+urgent: do you offer discounts for non-profit organizations? (kindly check #598),General,Low
+where can i find the user documentation? (urgent #599),General,Low
+urgent: feature request: add dark theme to reports (hello team #600),General,Low
+"hi, want to upgrade my plan to enterprise tier (please help #601)",Account,Low
+support needed - payment failed using my credit card (not working #602),Billing,High
+"hi, my invoice shows an incorrect tax amount (urgent #603)",Billing,Medium
+"hello, server error 500 when trying to export data (hello team #604)",Technical,High
+support needed - i forgot my password and reset link expired (please help #605),Account,High
+"hi, do you offer discounts for non-profit organizations? (not working #606)",General,Low
+"hello, cannot upload pdf files larger than 5mb (not working #607)",Technical,Medium
+support needed - need a refund for the cancelled order immediately (thanks #608),Billing,High
+"hello, want to upgrade my plan to enterprise tier (issue since morning #609)",Account,Low
+"hello, dark mode toggle is not saving my preference (asap #610)",Technical,Low
+how do i download my past billing receipts? (thanks #611),Billing,Low
+support needed - please delete my account and personal data (issue since morning #612),Account,Medium
+add a new team member to my workspace (kindly check #613),Account,Low
+urgent: dashboard is loading very slowly today (asap #614),Technical,Medium
+"hello, do you offer discounts for non-profit organizations? (not working #615)",General,Low
+the mobile app crashes every time i open settings (thanks #616),Technical,High
+urgent: need a refund for the cancelled order immediately (thanks #617),Billing,High
+urgent: need clarification on your privacy policy (urgent #618),General,Medium
+"hello, feature request: add dark theme to reports (hello team #619)",General,Low
+need clarification on your privacy policy (kindly check #620),General,Medium
+"hi, api webhook is not triggering on new events (thanks #621)",Technical,High
+support needed - cannot upload pdf files larger than 5mb (asap #622),Technical,Medium
+"hi, how do i download my past billing receipts? (thanks #623)",Billing,Low
+urgent: server error 500 when trying to export data (please help #624),Technical,High
+support needed - cannot upload pdf files larger than 5mb (hello team #625),Technical,Medium
+support needed - how to change my registered email address? (thanks #626),Account,Medium
+do you offer discounts for non-profit organizations? (urgent #627),General,Low
+urgent: api webhook is not triggering on new events (not working #628),Technical,High
+urgent: want to upgrade my plan to enterprise tier (issue since morning #629),Account,Low
+what are your customer support working hours? (thanks #630),General,Low
+dark mode toggle is not saving my preference (not working #631),Technical,Low
+support needed - how to change my registered email address? (hello team #632),Account,Medium
+support needed - payment failed using my credit card (thanks #633),Billing,High
+urgent: payment failed using my credit card (please help #634),Billing,High
+support needed - how do i download my past billing receipts? (thanks #635),Billing,Low
+"hi, api webhook is not triggering on new events (thanks #636)",Technical,High
+"hi, dark mode toggle is not saving my preference (hello team #637)",Technical,Low
+"hello, want to upgrade my plan to enterprise tier (urgent #638)",Account,Low
+"hi, dashboard is loading very slowly today (kindly check #639)",Technical,Medium
+"hello, payment failed using my credit card (urgent #640)",Billing,High
+"hi, want to upgrade my plan to enterprise tier (thanks #641)",Account,Low
+support needed - update my billing address on the account (hello team #642),Billing,Low
+what are your customer support working hours? (please help #643),General,Low
+need a refund for the cancelled order immediately (kindly check #644),Billing,High
+"hi, where can i find the user documentation? (issue since morning #645)",General,Low
+do you offer discounts for non-profit organizations? (not working #646),General,Low
+support needed - where can i find the user documentation? (kindly check #647),General,Low
+"hello, where can i find the user documentation? (not working #648)",General,Low
+urgent: server error 500 when trying to export data (kindly check #649),Technical,High
